@@ -1,0 +1,4 @@
+on keypad '#' is mapped to '.' and '*' is Enter
+Enter Value and then press '*' to get result
+exercise_1 input varies from 00.00 to 99.99 any other value will not be accepted
+exercise_2 input varies from 0 to 999999 any other value will not be accepted

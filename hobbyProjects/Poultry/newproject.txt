@@ -1,0 +1,8 @@
+humidity sensor 	
+1.AM2305		
+2.si7021		cheap
+3.rs 1xx		
+4.lht65		
+5.netvox r712
+6.sht25
+7.bme280        max 6month life span   very stable
